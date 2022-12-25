@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "java",
+      "price": "5000",
+      "description": "java",
+      "id": 1
+    },
+    {
+      "title": "javascript",
+      "price": "5500",
+      "description": "learn javascript",
+      "id": 2
+    },
+    {
+      "title": "react",
+      "price": "4000",
+      "description": "learn react",
+      "id": 3
+    }
+  ]
+}
